@@ -1,5 +1,5 @@
 # Challenge-Conversor-de-monedas
-# Conversor de monedas
+
 # Descripción:
 Programa en Java que permite convertir entre distintas monedas usando la API ExchangeRate-API y muestra un historial de conversiones durante la ejecución.
 
