@@ -1,10 +1,9 @@
 # Challenge-Conversor-de-monedas
-Conversor de Monedas en Java
-
-Descripción:
+# Conversor de monedas
+# Descripción:
 Programa en Java que permite convertir entre distintas monedas usando la API ExchangeRate-API y muestra un historial de conversiones durante la ejecución.
 
-Características:
+# Características:
 
 Conversión entre monedas (USD, ARS, CLP, BRL, EUR).
 
@@ -14,7 +13,7 @@ Resultados legibles y formato adecuado.
 
 Manejo de excepciones al consumir la API.
 
-Tecnologías:
+# Tecnologías:
 
 Java 17+
 
